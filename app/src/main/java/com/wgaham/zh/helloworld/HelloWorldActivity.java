@@ -12,7 +12,6 @@ public class HelloWorldActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hello_world_layout);
         Log.d("data","onCreate execute");
-        //sqsqsqss
         //Log.d(TAG, "onCreate: ");
     }
 }
